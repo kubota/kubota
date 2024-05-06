@@ -19,15 +19,15 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Advanced Web Security: Techniques to secure web applications from various vulnerabilities
-- Malware Analysis and Reverse Engineering: Understanding and dissecting malicious software
-- Cryptography and Encryption: Developing secure cryptographic protocols and algorithms
-- Incident Response and Forensics: Strategies for handling security incidents and forensic analysis
-- Secure Coding Practices: Best practices for writing secure and resilient code
-- Penetration Testing and Ethical Hacking: Techniques for testing and improving system security
-- Security Compliance and Regulations: Ensuring compliance with industry standards and regulations
-- Threat Intelligence and Security Monitoring: Identifying and mitigating security threats in real-time
-- Cloud Security: Securing cloud infrastructure and services against cyber threats
+- Advanced Web Security: Techniques to secure web applications from various vulnerabilities.
+- Malware Analysis and Reverse Engineering: Understanding and dissecting malicious software.
+- Cryptography and Encryption: Unlocking security through cryptography and encryption.
+- Incident Response and Forensics: Strategies for handling security incidents and forensic analysis.
+- Secure Coding Practices: Best practices for writing secure and resilient code...
+- Penetration Testing and Ethical Hacking: Techniques for Sec. testing.
+- Security Compliance and Regulations: Continuously focusing on studying compliance aspects.
+- Threat Intelligence and Security Monitoring: Identifying and mitigating security threats in real-time.
+- Cloud Security: *.* =D
 
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
