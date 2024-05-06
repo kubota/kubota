@@ -4,6 +4,7 @@
 
 # 🍕 kubota's Page 🍣
 
+
 ## 私が愛するもの
 
 ![](https://img.shields.io/badge/-x64dbg-lightgrey)
