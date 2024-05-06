@@ -4,7 +4,7 @@
 
 # 🍕 Kubota's Page 🍣
 
-## Things I Love
+## 私が愛するもの
 
 - ![x64dbg](https://img.shields.io/badge/-x64dbg-lightgrey)
 - ![Low Level Programming](https://img.shields.io/badge/-Low_Level_Programming-green)
