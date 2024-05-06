@@ -14,3 +14,4 @@
 - ![Open Source](https://img.shields.io/badge/open-source-white)
 
 
+![S1 - github stats](https://github-readme-stats.vercel.app/api?username=kubota&hide=["issues"]&show_icons=true)
