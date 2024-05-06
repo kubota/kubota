@@ -28,7 +28,10 @@ Talk to me about
 - Security Compliance and Regulations: Ensuring compliance with industry standards and regulations
 - Threat Intelligence and Security Monitoring: Identifying and mitigating security threats in real-time
 - Cloud Security: Securing cloud infrastructure and services against cyber threats
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
+<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 0/</em>
 *****************************************************************************
 
 📊 **Weekly development breakdown**
