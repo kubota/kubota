@@ -5,7 +5,6 @@
 ### 🍕 This is the place where I open-source stuff and break things: .-. . ... .-. ... . ...- . . -. --. . .. . .-.. .. -. --. 🍣
 
 ## 私が愛するもの
-
 - ![x64dbg](https://img.shields.io/badge/-x64dbg-lightgrey)
 - ![Arts.Crafts](https://img.shields.io/badge/Arts.Crafts-flat)
 - ![Low Level Programming](https://img.shields.io/badge/-Low_Level_Programming-green)
