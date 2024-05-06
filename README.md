@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
 
-### 🍕 This is the place where I opensource stuff and break things 🍣
+### 🍕 This is the place where I open-source stuff and break things 🍣
 
 ## 私が愛するもの
 
@@ -42,5 +42,6 @@ Cloud Sec.    █░░░░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
+  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
